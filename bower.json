@@ -1,0 +1,21 @@
+{
+  "name": "rapid-style",
+  "homepage": "https://github.com/rapidwebltd/rapid-style",
+  "authors": [
+    "Rapid Web Ltd"
+  ],
+  "description": "Our pre-defined styling that we use for new projects.",
+  "main": "base.less",
+  "keywords": [
+    "css",
+    "less"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
